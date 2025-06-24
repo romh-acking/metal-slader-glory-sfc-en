@@ -1,0 +1,12 @@
+*.db
+*.deb
+*.lnk
+*.db:encryptable
+*.deb
+*.cdl
+*.fds
+*.smp.sym
+*.cpu.sym
+*-usage.bin
+*.bst
+*.bp
