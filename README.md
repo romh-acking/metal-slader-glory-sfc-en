@@ -79,6 +79,9 @@ Don't remove the `(End quote)` control code. The end quote character is already 
 Removing the end quotes will mess with various character animations. Most apparent are the character's mouths never closing. Certain character animations won't play at times and in rare instances obvious onscreen graphical glitching will occur.
 
 ## Changelog
+* 2025 September 1st, 1.1
+    * One of the passwords incorrectly displayed as "Let's go to Colony 35" instead of "Let's go back to Colony 35".
+	* Thanks to @solrocknroll for spotting this.
 * 2025 March 10th, 1.0
     * Initial release
 
